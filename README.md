@@ -18,11 +18,11 @@ Android-based interactive quiz learning applications can be utilized by students
 ## 🛠 Tools
 **Backend:** <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-%2300ADD8.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2300ADD8.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java-language&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Android](https://img.shields.io/badge/Android-FF6C37?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-2300ADD8?style=for-the-badge&logo=android&logoColor=white)
 
 **Deployment:** <br>
 ![Firebase](https://img.shields.io/badge/Firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white)
@@ -75,9 +75,9 @@ $ go run .
 
 # 🤖 Connecting with Me!
 
--  Febrian Syahrir Rizky <br>  [![GitHub](https://img.shields.io/badge/Febrian-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizkysyahrir)
-[![LinkedIn](https://img.shields.io/badge/Febrian%20Syahrir%20Rizky-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febrian-syahrir-rizky-9a4238166/)
-[![Instagram](https://img.shields.io/badge/rizkysyahrir-%23121011.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizkysyahrir/)
+-  Febrian Syahrir Rizky <br>  [![GitHub](https://img.shields.io/badge/Febrian-%23121011.svg?style=flat-circle&logo=github&logoColor=white)](https://github.com/rizkysyahrir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-circle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febrian-syahrir-rizky-9a4238166/)
+[![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=flat-circle&logo=instagram&logoColor=white)](https://www.instagram.com/rizkysyahrir/)
 
 <h5>
 <p align="center">Built with ❤️ by me ©️ 2022</p>
