@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71246713441",
+    "project_id": "quizeducation-c1983",
+    "storage_bucket": "quizeducation-c1983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71246713441:android:8429ca2774b61923a21020",
+        "android_client_info": {
+          "package_name": "com.ucweb.eduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71246713441-ctk0d4dm2g7bi2ic4m1mdhmmj1hdpqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iRQ6-CKQE22UJUSKZ4srUreg-Ly5Tv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71246713441-ctk0d4dm2g7bi2ic4m1mdhmmj1hdpqrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
